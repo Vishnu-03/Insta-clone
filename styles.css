@@ -179,7 +179,7 @@
   }
   
   .post > .actions > .like-btn:not(.active) > path:last-child {
-    display: none;
+    display: none; 
   }
   
   .post > .actions > svg:last-child {
